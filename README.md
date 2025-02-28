@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RadmanUltraYT
+- 👋 Hi, I’m @StratexYT
 - 👀 I’m interested in Unity Development with C#, 3D, 2D, Isometric, whatever.
 - 🌱 I’m currently learning How to make a 2D platformer RPG in Unity.
 - 💞️ I’m looking to collaborate on: nah chat im a lone wolf
